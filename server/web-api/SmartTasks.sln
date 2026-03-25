@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTasks.Api", "SmartTasks.Api\SmartTasks.Api.csproj", "{49589D5B-236E-4DF0-98DD-F2FB69AD17D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTasks.Application", "SmartTasks.Application\SmartTasks.Application.csproj", "{B327F771-A4CE-45A8-874A-6E5E160B3419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTasks.Domain", "SmartTasks.Domain\SmartTasks.Domain.csproj", "{B5AA2061-0528-42CE-9C50-D8223F58FE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTasks.Infrastructure", "SmartTasks.Infrastructure\SmartTasks.Infrastructure.csproj", "{F86A1EA6-BA23-496A-83B5-0E56F52494C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49589D5B-236E-4DF0-98DD-F2FB69AD17D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49589D5B-236E-4DF0-98DD-F2FB69AD17D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49589D5B-236E-4DF0-98DD-F2FB69AD17D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49589D5B-236E-4DF0-98DD-F2FB69AD17D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B327F771-A4CE-45A8-874A-6E5E160B3419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B327F771-A4CE-45A8-874A-6E5E160B3419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B327F771-A4CE-45A8-874A-6E5E160B3419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B327F771-A4CE-45A8-874A-6E5E160B3419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AA2061-0528-42CE-9C50-D8223F58FE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AA2061-0528-42CE-9C50-D8223F58FE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AA2061-0528-42CE-9C50-D8223F58FE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AA2061-0528-42CE-9C50-D8223F58FE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86A1EA6-BA23-496A-83B5-0E56F52494C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A1EA6-BA23-496A-83B5-0E56F52494C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A1EA6-BA23-496A-83B5-0E56F52494C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A1EA6-BA23-496A-83B5-0E56F52494C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

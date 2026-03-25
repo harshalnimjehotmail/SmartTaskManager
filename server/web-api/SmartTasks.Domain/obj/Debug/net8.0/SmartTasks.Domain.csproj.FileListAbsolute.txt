@@ -1,0 +1,11 @@
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\bin\Debug\net8.0\SmartTasks.Domain.deps.json
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\bin\Debug\net8.0\SmartTasks.Domain.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\bin\Debug\net8.0\SmartTasks.Domain.pdb
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.AssemblyInfoInputs.cache
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.AssemblyInfo.cs
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.csproj.CoreCompileInputs.cache
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\refint\SmartTasks.Domain.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\SmartTasks.Domain.pdb
+D:\Apps\SmartTaskManager\backend\SmartTasks.Domain\obj\Debug\net8.0\ref\SmartTasks.Domain.dll

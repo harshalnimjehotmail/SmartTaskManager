@@ -1,0 +1,15 @@
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.csproj.AssemblyReference.cache
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.AssemblyInfoInputs.cache
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.AssemblyInfo.cs
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.csproj.CoreCompileInputs.cache
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\bin\Debug\net8.0\SmartTasks.Application.deps.json
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\bin\Debug\net8.0\SmartTasks.Application.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\bin\Debug\net8.0\SmartTasks.Application.pdb
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\bin\Debug\net8.0\SmartTasks.Domain.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\bin\Debug\net8.0\SmartTasks.Domain.pdb
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTas.0F4E70CC.Up2Date
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\refint\SmartTasks.Application.dll
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\SmartTasks.Application.pdb
+D:\Apps\SmartTaskManager\backend\SmartTasks.Application\obj\Debug\net8.0\ref\SmartTasks.Application.dll
